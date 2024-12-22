@@ -121,4 +121,4 @@ Created by [D3F417](https://github.com/Sir-D3F417)
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/TeleFlow-Bridge/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Sir-D3F417/TeleFlow-Bridge/issues).
