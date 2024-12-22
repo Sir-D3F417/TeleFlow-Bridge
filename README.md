@@ -18,7 +18,7 @@
 <div align="center">
   
   [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/d3f417ir)
-  [![YouTube Video](https://img.shields.io/badge/YouTube-Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/your_video_id)
+  [![YouTube Video](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@sird3f417)
   [![GitHub Stars](https://img.shields.io/github/stars/Sir-D3F417/TeleFlow-Bridge?style=for-the-badge&logo=github)](https://github.com/Sir-D3F417/TeleFlow-Bridge)
   
 </div>
@@ -27,9 +27,9 @@
 
 <div align="center">
   
-  [![TeleFlow-Bridge Tutorial](https://img.youtube.com/vi/your_video_id/maxresdefault.jpg)](https://www.youtube.com/watch?v=your_video_id)
+  [![TeleFlow-Bridge Demo](https://img.youtube.com/vi/your_video_id/maxresdefault.jpg)](https://www.youtube.com/watch?v=DAyezxqr3-A)
   
-  <i>Click the image above to watch the tutorial video</i>
+  <i>Click to watch the demo video</i>
 </div>
 
 ## 🌟 Connect With Us
@@ -39,8 +39,8 @@
   | Platform | Link | Description |
   |----------|------|-------------|
   | 💬 Telegram | [@d3f417ir](https://t.me/d3f417ir) | Join our Telegram channel for updates and support |
-  | 📺 YouTube | [Watch Tutorial](https://youtu.be/your_video_id) | Full installation and setup guide |
-  | 🌐 Website | [D3F417](https://zil.ink/d3f417) | Visit our website for more projects |
+  | 📺 YouTube | [Watch Tutorial](https://www.youtube.com/@sird3f417) | To see my other videos :) |
+  | 🌐 Website | [D3F417](https://d3f417.info) | Visit our website for more projects |
   
 </div>
 
