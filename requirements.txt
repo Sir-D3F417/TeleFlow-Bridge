@@ -1,0 +1,7 @@
+python-telegram-bot
+discord.py[voice]
+python-dotenv
+httpx
+dnspython
+PyNaCl
+moviepy
