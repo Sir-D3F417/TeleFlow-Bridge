@@ -1,7 +1,5 @@
 # TeleFlow-Bridge 
 
-# TeleFlow-Bridge
-
 <p align="center">
   <img src="assets/logo.png" alt="TeleFlow-Bridge Logo" width="200"/>
   <br>
