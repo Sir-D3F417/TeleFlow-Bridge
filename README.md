@@ -14,6 +14,36 @@
   <a href="#configuration">Configuration</a>
 </p>
 
+
+<div align="center">
+  
+  [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/d3f417ir)
+  [![YouTube Video](https://img.shields.io/badge/YouTube-Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/your_video_id)
+  [![GitHub Stars](https://img.shields.io/github/stars/Sir-D3F417/TeleFlow-Bridge?style=for-the-badge&logo=github)](https://github.com/Sir-D3F417/TeleFlow-Bridge)
+  
+</div>
+
+## 📺 Project Demo
+
+<div align="center">
+  
+  [![TeleFlow-Bridge Tutorial](https://img.youtube.com/vi/your_video_id/maxresdefault.jpg)](https://www.youtube.com/watch?v=your_video_id)
+  
+  <i>Click the image above to watch the tutorial video</i>
+</div>
+
+## 🌟 Connect With Us
+
+<div align="center">
+  
+  | Platform | Link | Description |
+  |----------|------|-------------|
+  | 💬 Telegram | [@d3f417ir](https://t.me/d3f417ir) | Join our Telegram channel for updates and support |
+  | 📺 YouTube | [Watch Tutorial](https://youtu.be/your_video_id) | Full installation and setup guide |
+  | 🌐 Website | [D3F417](https://zil.ink/d3f417) | Visit our website for more projects |
+  
+</div>
+
 ## 🌟 Features
 
 - 🔄 Real-time message forwarding from Telegram to Discord
