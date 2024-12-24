@@ -1,7 +1,7 @@
 # TeleFlow-Bridge 
 
 <p align="center">
-  <img src="assets/logo.jpg" alt="TeleFlow-Bridge Logo" width="500"/>
+  <img src="assets/logo.jpg" alt="TeleFlow-Bridge Logo"/>
   <br>
   <i>Seamlessly bridge Telegram channels to Discord servers with style</i>
 </p>
